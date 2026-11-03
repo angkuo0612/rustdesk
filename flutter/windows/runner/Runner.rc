@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "Purslane Tech Pte. Ltd." "\0"
-            VALUE "FileDescription", "RustDesk Remote Desktop" "\0"
+            VALUE "CompanyName", "Muchen Tech" "\0"
+            VALUE "FileDescription", "MuchenGuard Remote Desktop" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "rustdesk" "\0"
-            VALUE "LegalCopyright", "Copyright © 2026 Purslane Tech Pte. Ltd. All rights reserved." "\0"
-            VALUE "OriginalFilename", "rustdesk.exe" "\0"
-            VALUE "ProductName", "RustDesk" "\0"
+            VALUE "InternalName", "muchenguard" "\0"
+            VALUE "LegalCopyright", "Copyright © 2026 Muchen Tech. All rights reserved." "\0"
+            VALUE "OriginalFilename", "muchenguard.exe" "\0"
+            VALUE "ProductName", "MuchenGuard" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
